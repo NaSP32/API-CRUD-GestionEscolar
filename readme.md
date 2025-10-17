@@ -68,8 +68,7 @@ Devuelve los estudiantes que tengan "Matemática" dentro de su lista de cursos.
 }
 
 ### 4️⃣ Actualizar un estudiante
-
-**PUT** /api/estudiantes/:id
+**PUT** `/api/estudiantes/:id`  
 
 **Body (JSON):**
 ```json
