@@ -72,12 +72,13 @@ Devuelve los estudiantes que tengan "Matemática" dentro de su lista de cursos.
 **PUT** /api/estudiantes/:id
 
 **Body (JSON):**
+```json
 {
     "nombre": "Amadeo ",
     "apellido": "Rodriguez",
     "email": "arodriguez@mail.com",
     "cursos": ["Historia"]
-  }
+}
 
 ### 🧪 Cómo probar la API en local
 
