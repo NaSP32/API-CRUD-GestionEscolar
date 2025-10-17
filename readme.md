@@ -79,7 +79,7 @@ Devuelve los estudiantes que tengan "Matemática" dentro de su lista de cursos.
     "cursos": ["Historia"]
 }
 
-### 🧪 Cómo probar la API en local
+### 🧪 Cómo probar la API localmente
 
 ### 🔹 En local
 
