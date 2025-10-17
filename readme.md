@@ -66,6 +66,7 @@ Devuelve los estudiantes que tengan "Matemática" dentro de su lista de cursos.
   "email": "ana@gmail.com",
   "cursos": ["Matemática", "Arte"]
 }
+```
 
 ### 4️⃣ Actualizar un estudiante
 **PUT** `/api/estudiantes/:id`  
@@ -78,6 +79,8 @@ Devuelve los estudiantes que tengan "Matemática" dentro de su lista de cursos.
     "email": "arodriguez@mail.com",
     "cursos": ["Historia"]
 }
+```
+
 
 ### 🧪 Cómo probar la API localmente
 
