@@ -67,9 +67,9 @@ Devuelve los estudiantes que tengan "Matemática" dentro de su lista de cursos.
   "cursos": ["Matemática", "Arte"]
 }
 
-## 4️⃣ Actualizar un estudiante
+### 4️⃣ Actualizar un estudiante
 
-##PUT /api/estudiantes/:id
+**PUT** /api/estudiantes/:id
 
 **Body (JSON):**
 {
@@ -79,7 +79,7 @@ Devuelve los estudiantes que tengan "Matemática" dentro de su lista de cursos.
     "cursos": ["Historia"]
   }
 
-## 🧪 Cómo probar la API en local
+### 🧪 Cómo probar la API en local
 
 ### 🔹 En local
 
