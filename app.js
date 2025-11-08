@@ -6,7 +6,7 @@ const estudiantesRoutes = require("./routes/estudiantes");
 dotenv.config(); //cargar variables de entorno
 connectDB(); //conectar a la bd
 
-const app = express();
+
 
 // 📍 EN TU ARCHIVO app.js o index.js DEL BACKEND
 
