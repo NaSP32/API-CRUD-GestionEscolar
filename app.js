@@ -7,15 +7,7 @@ dotenv.config(); //cargar variables de entorno
 connectDB(); //conectar a la bd
 
 
-
-// 📍 EN TU ARCHIVO app.js o index.js DEL BACKEND
-
-const cors = require('cors');
-const express = require('express');
 const app = express();
-
-
-
 app.use(express.json()); //Middleware para leer json
 
 //Ruta base
